@@ -24,4 +24,4 @@ module "clickhouse" {
 }
 ```
 
-See `examples` folder
+See [example](https://github.com/4ops/terraform-kubernetes-clickhouse-server/tree/master/example) folder
